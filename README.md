@@ -1,5 +1,4 @@
-# CS361-Microservice
-Microservice for my partner's project
+# Microservice
 
 To request data from the microservice, send a JSON object with the request parameters in the body of the request.  In the below example, the connection and queues are initiated, then the example_body is passed into the body of the request: 
     
